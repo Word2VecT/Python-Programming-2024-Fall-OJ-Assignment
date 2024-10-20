@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"/Users/tang/Course/Python 程序设计/HUSTOJ/第二次/G. 手机的诱惑_DFS.py","tests":[{"id":1729091732066,"input":"4 4 5\nS.X.\n..X.\n..XD\n....\n3 4 5\nS.X.\n..X.\n...D\n0 0 0","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/tang/Course/Python 程序设计/HUSTOJ/第二次/G. 手机的诱惑_DFS.py","group":"local","local":true}

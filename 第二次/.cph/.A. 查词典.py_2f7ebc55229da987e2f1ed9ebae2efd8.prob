@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"/Users/tang/Course/Python 程序设计/HUSTOJ/第二次/A. 查词典.py","tests":[{"id":1729072742051,"input":"3\nmmm www\nm w\nmm ww\nww\nwwww\nw\ndog","output":"mm\ndog\nm"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/tang/Course/Python 程序设计/HUSTOJ/第二次/A. 查词典.py","group":"local","local":true}

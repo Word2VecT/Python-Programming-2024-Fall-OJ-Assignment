@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"/Users/tang/Course/Python 程序设计/HUSTOJ/第二次/B. 集合运算.py","tests":[{"id":1729073584949,"input":"5\n1 2 3 4 5\n5\n2 4 6 8 10","output":"2 4\n1 2 3 4 5 6 8 10\n1 3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/tang/Course/Python 程序设计/HUSTOJ/第二次/B. 集合运算.py","group":"local","local":true}
