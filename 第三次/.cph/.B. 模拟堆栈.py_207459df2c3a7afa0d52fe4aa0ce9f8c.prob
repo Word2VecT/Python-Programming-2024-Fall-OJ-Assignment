@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"/Users/tang/Course/Python 程序设计/HUSTOJ/第三次/B. 模拟堆栈.py","tests":[{"id":1730111221951,"input":"5\n1 2 3 4 5\npop 2\npush 6 7 8","output":"len = 6, data = 1 2 3 6 7 8\nlen = 2, data = 5 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/tang/Course/Python 程序设计/HUSTOJ/第三次/B. 模拟堆栈.py","group":"local","local":true}

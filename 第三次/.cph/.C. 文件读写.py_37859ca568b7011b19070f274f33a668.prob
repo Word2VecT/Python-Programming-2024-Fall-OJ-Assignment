@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"/Users/tang/Course/Python 程序设计/HUSTOJ/第三次/C. 文件读写.py","tests":[{"id":1730121031404,"input":"This is an example\nw\nAnother example","output":"Another example"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/tang/Course/Python 程序设计/HUSTOJ/第三次/C. 文件读写.py","group":"local","local":true}
